@@ -6,6 +6,7 @@
 🧩 I love solving problems, building projects, and continuously learning new technologies  
 🚀 My goal is to grow as a **Software Developer** and create impactful solutions  
 
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/archana-mehta-22b32634b?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:archanamehta3108@gmail.com)
